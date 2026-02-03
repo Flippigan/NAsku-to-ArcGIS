@@ -1,0 +1,36 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+venv/
+env/
+.venv/
+ENV/
+
+# IDE
+.vscode/
+.idea/
+*.swp
+*.swo
+
+# ArcGIS
+*.lock
+*.gdb/
+*.sde
+*.aprx
+*.atbx
+*.tbx
+
+# Data files (too large / sensitive)
+*.xls
+*.xlsx
+*.csv
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
